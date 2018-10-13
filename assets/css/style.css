@@ -1,0 +1,164 @@
+body{
+
+    width: 100%;
+    margin: auto;
+
+}
+
+
+.container {
+
+    width: 960px;
+    margin: 0 auto;
+    overflow: auto;
+
+}
+
+
+.header-top {
+
+    background: #ffffff;
+    width: 100%;
+    top: 0px;
+    position: fixed;
+    border-bottom: 1px solid;
+    border-color: #666666;
+    
+
+}
+
+
+.myname {
+
+    float:left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #4aaaa5; 
+    font-size: 13px;
+    color: #ffffff;
+    padding: 10px;
+    margin: auto;
+    
+
+
+
+}
+
+a {
+
+    text-decoration: none;
+    color: #777777;
+
+}
+
+li {
+
+    list-style: none;
+    float: left;
+    margin: 15px;
+
+
+
+}
+
+.nav {
+
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #777777;
+    text-decoration: none;
+
+
+}
+
+.containerbody {
+
+    overflow: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 960px; 
+    padding: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+h1 {
+
+    text-align: center;
+
+   
+
+}
+
+.content-middle {
+
+    margin:auto;
+    width: 960px;
+    float: left;
+    overflow: auto;
+    clear: both;
+
+
+
+}
+
+.selfpic {
+
+    float: left;
+    width: 275px;
+    height: auto;
+    border-radius: 100%;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 12px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+#bottom {
+
+    background-color: #666666;
+    position: fixed;
+    height: 80px;
+    margin-top: -64px;
+    clear: both;
+    width: 100%;
+    overflow: auto;
+    border-top: #4aaaa5;
+    border-width: 5px;
+    border-style: solid;
+
+
+
+}
+
+#copy {
+
+    color:#ffffff;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+
+}
+
+#about-me {
+
+    text-align: left;
+    color: #4aaaa5;
+    font-size: 35px;
+    margin-left: 0px;
+    font-weight: bold;
+    margin-bottom: auto;
+
+}
+
+
+hr {
+
+    align-content: center;
+
+}
